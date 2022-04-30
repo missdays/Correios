@@ -1,0 +1,15 @@
+/Users/macbook/Projects/Correios/Correios/bin/Debug/netstandard2.0/Correios.deps.json
+/Users/macbook/Projects/Correios/Correios/bin/Debug/netstandard2.0/Correios.dll
+/Users/macbook/Projects/Correios/Correios/bin/Debug/netstandard2.0/ref/Correios.dll
+/Users/macbook/Projects/Correios/Correios/bin/Debug/netstandard2.0/Correios.pdb
+/Users/macbook/Projects/Correios/Correios/obj/Debug/netstandard2.0/Correios.csproj.AssemblyReference.cache
+/Users/macbook/Projects/Correios/Correios/obj/Debug/netstandard2.0/Correios.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/Correios/Correios/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/macbook/Projects/Correios/Correios/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/macbook/Projects/Correios/Correios/obj/Debug/netstandard2.0/Correios.AssemblyInfoInputs.cache
+/Users/macbook/Projects/Correios/Correios/obj/Debug/netstandard2.0/Correios.AssemblyInfo.cs
+/Users/macbook/Projects/Correios/Correios/obj/Debug/netstandard2.0/Correios.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/Correios/Correios/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/macbook/Projects/Correios/Correios/obj/Debug/netstandard2.0/Correios.dll
+/Users/macbook/Projects/Correios/Correios/obj/Debug/netstandard2.0/ref/Correios.dll
+/Users/macbook/Projects/Correios/Correios/obj/Debug/netstandard2.0/Correios.pdb
