@@ -7,10 +7,10 @@ namespace Correios.Servico
 {
     public class ViaCEPServico
     {
-            private static string EnderecoURL = "https://viacep.com.br/ws/{0}/json/";
+        private static string EnderecoURL = "https://viacep.com.br/ws/{0}/json/";
 
-            public static Endereco BuscarEnderecoViaCEP(string cep)
-         {
+        public static Endereco BuscarEnderecoViaCEP(string cep)
+        {
             String NovoEnderecoURL = string.Format(EnderecoURL, cep);
 
             WebClient wc = new WebClient();
@@ -22,9 +22,7 @@ namespace Correios.Servico
             if (end.cep == null) return null;
 
             return end;
-
-
-          }
+        }
         
     }
 } 
